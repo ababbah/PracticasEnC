@@ -1,5 +1,2 @@
-.layout
-.depend
-.exe
 .o
-.obj
+.exe
