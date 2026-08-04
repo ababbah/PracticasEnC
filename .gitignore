@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.exe
 *.o
 *.depend
@@ -5,3 +6,9 @@
 bin/
 obj/
 
+=======
+.o
+.exe
+.app
+.out 
+>>>>>>> 4f20d77 (numeros pseudoaleatorios)
